@@ -7,7 +7,7 @@ The official tutorial provide a vti file.
 you can get from [here](./data/head.vti)
 
 ### The node procedure
-
+![image1](./images/procedure.png)
 - vtkXMLImageDataReader
   - vtkImageGaussianSmooth
     - vtkContourFilter: Single Value=66
