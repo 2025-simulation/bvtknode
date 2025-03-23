@@ -17,6 +17,3 @@ you can get from [here](./data/head.vti)
       - VTK To Blender Mesh: Name=skel; checkout Smooth
     - vtkContourFilter: Single Value: 20
       - VTK To Blender Mesh: Name=skin; ckeckout Smooth
-
-
-vybybu
