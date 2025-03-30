@@ -2,6 +2,8 @@
 
 [docs](./docs)
 
+[learn from official](./docs/learn_tutorial.md)
+
 ## TODO
 
 - [ ] how to import the vtk file
