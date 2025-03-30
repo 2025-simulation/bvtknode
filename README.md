@@ -1,6 +1,16 @@
+# BVtkNodes
+
+[docs](./docs)
+
 ## TODO
+
 - [ ] how to import the vtk file
 - [ ] how to import the vtk.series
+
+## Source
+
+Here is the source [repo](https://github.com/tkeskita/BVtkNodes).
+
 ## The Official Tutorial
 
 1. `Shift+F3` twice: open the layout and create a new one.
