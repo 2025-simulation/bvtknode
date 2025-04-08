@@ -4,6 +4,8 @@
 
 [learn from official](./docs/learn_tutorial.md)
 
+[FAQ](./docs/FAQ.md)
+
 ## How to use 
 
 **Preparations:**
