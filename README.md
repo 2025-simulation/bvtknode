@@ -1,10 +1,9 @@
 # BVtkNodes
 
-[docs](./docs)
+[FAQ](./docs/faq.md)
 
 [learn from official](./docs/learn_tutorial.md)
 
-[FAQ](./docs/FAQ.md)
 
 ## How to use 
 
